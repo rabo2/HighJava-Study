@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phoneBook>
+    <phone>
+        <name>홍길동</name>
+        <tel>010-1111-1111</tel>
+        <addr>대전시</addr>
+    </phone>
+    <phone>
+        <name>홍서남</name>
+        <tel>010-1111-1111</tel>
+        <addr>대전시</addr>
+    </phone>
+    <phone>    
+        <name>홍동길</name>
+        <tel>010-1111-1111</tel>
+        <addr>대전시</addr>
+    </phone>
+</phoneBook>
